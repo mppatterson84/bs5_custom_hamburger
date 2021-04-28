@@ -1,6 +1,6 @@
 # Bootstrap 5 Custom Hamburger
 
-Use a _Hamburger_ in place of the `navbar-toggler-icon` on a Bootstrap navbar.
+Use a _Hamburger_ in place of the `navbar-toggler-icon` on a _Bootstrap_ navbar.
 
 Slim down and minify the _Bootstrap_ CSS and _Hamburgers_ CSS using _Sass_.
 
